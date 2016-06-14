@@ -15,15 +15,13 @@ Scratch permet de s'approprier les logiques de base de la programmation (variabl
 
 Choisir 2 lutins, et les faire dialoguer.
 
-Aide:
-<p style="color:white;">! Apparence + Contrôle</p>
+[aide TP1](aide/tp1)
 
 # TP 2: Dialogue amélioré
 
 Améliorer le dialogue, 2 phrases par lutin (A - B - A - B)
 
-Aide:
->! Apparence + Evenements (Messages)
+[aide TP2](aide/tp2)
 
 # TP 3: Château hanté
 
@@ -32,8 +30,7 @@ Scénario:
 3 humains discutent dans un château. Au bout d'un moment, un monstre fait son apparition, entraînant une réaction des humains. Le monstre se déplace ensuite, jusqu'à sortir de l'écran.
 Appeurés, les humains quittent la scène à leur tour.
 
-Aide:
->! Apparence + Evenements (Messages) + Mouvement (glisser). Il est possible de réagir 2 fois à un même évenement.
+[aide TP3](aide/tp3)
 
 # TP 4: Merlin Pinpin
 
@@ -43,8 +40,7 @@ Scénario:
 transformer le crapaud en un autre animal (4 chances sur 5), ou en princesse (1 chance sur 5).
 Si le crapaud n'est pas transformé en princesse, il se moque du magicien ("Raté !"), sinon il le remercie ("Merci !")
 
-Aide:
->! Opérateurs (aléatoire) + Apparence + Costumes. Un costume n'a pas qu'un nom.
+[aide TP4](aide/tp4)
 
 # TP 5: Fruit ninja
 
@@ -89,9 +85,6 @@ Si on a 0 points, on ne doit pas en perdre plus si on clique sur une bombe (pas 
 - Afficher 3 icones 'vie' rouges sur l'écran, devenant gris pour chaque vie perdue
 - Créer et utiliser des fontions pour simplifier le code
 
-Aide:
->! Opérateurs + Contrôle + Apparence + Costumes + Données + Evenements.
+[aide TP5](aide/tp5)
 
-Aide 2:
-
->! Scratch ne sait pas soustraire. 10 + -1 = ?
+[aide TP5-bis](aide/tp5-bis)
