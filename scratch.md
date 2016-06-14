@@ -16,7 +16,7 @@ Scratch permet de s'approprier les logiques de base de la programmation (variabl
 Choisir 2 lutins, et les faire dialoguer.
 
 Aide:
->! Apparence + Contrôle
+<p style="color:white;">! Apparence + Contrôle</p>
 
 # TP 2: Dialogue amélioré
 
