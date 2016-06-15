@@ -1,4 +1,4 @@
-# Scrach
+# Scratch
 
 Scratch est un outil développé par le MIT, de type "Visual Coding".
 ![Scratch screen](http://news.mit.edu/sites/mit.edu.newsoffice/files/images/2013/20130514110054-1_0_0.jpg)
@@ -60,7 +60,7 @@ Pour simplifier le jeu, nous allons le simplifier:
 
 Réaliser les étapes suivantes:
 
-- Faire apparaître un fruit à un emplacement **aléatoire** en haut de l'écran (y = -180)
+- Faire apparaître un fruit à un emplacement **aléatoire** en haut de l'écran (y = 180)
 - Faire descendre ce fruit à un emplacement **aléatoire** en bas de l'écran
 - Rendre la vitesse de déplacement de ce fruit **aléatoire**
 - Rendre ce mouvement infini
